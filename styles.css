@@ -1,0 +1,26 @@
+.container {
+    font-size: 0;
+}
+
+#area1 {
+    background-color: #EEE;
+    height: 263px;
+    padding: 25px 0;
+    text-align: center;
+}
+
+#area2, #area3 {
+    height: 263px;
+    padding: 25px 0;
+    display: inline-block;
+    width: 50%;
+    font-size: 1rem;
+    text-align: center;
+}
+
+#area2 {
+    background-color: #00FFFF;
+}
+#area3 {
+    background-color: #54C571;
+}
